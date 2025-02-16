@@ -1,1 +1,1 @@
-This is a repository realte to javascript practice from scratch
+This is a repository relate to javascript practice from scratch..
